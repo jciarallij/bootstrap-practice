@@ -1,0 +1,92 @@
+body {
+	background-image: url("../img/bg2.jpg");
+	background-position: 0px -710px;
+	background-repeat: repeat-x;
+}
+
+.img-responsive {
+	width: 100%;
+}
+
+#big-image {
+	margin-top: 2%;
+}
+
+.row {
+	margin-top: 2%;
+}
+
+.footer-one {
+	background-image: url("../img/bg2.jpg");
+	background-position: 0px -710px;
+	background-repeat: repeat-x;
+}
+
+.wrapper p{
+/*	color: white;*/
+/*  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;*/
+     font-size: 15px;
+     color: black;
+}
+
+.footer p {
+	color: black;
+}
+
+.offer {
+	margin: -33px 0px 0px;
+	font: bold;
+	font-size: 15px;
+	color: #164c67;
+}
+
+h4.text-right {
+	    margin-top: -48px;
+	    color: white;
+	    text-shadow: 0px 1px black;
+	
+}
+
+.active {
+	margin: auto;
+}
+
+img {
+	margin: auto;
+}
+
+h2 {
+	margin-top: 28px;
+	color: #164c67;
+}
+
+h3 {
+	color: #164c67;
+}
+
+.carousel-indicators {
+  	bottom: 38px;
+	
+}
+
+.carousel-indicators li{
+	background-color: #164c67;
+	border-color: #164c67;
+	border-radius: 0;
+}
+
+.input-group-addon{
+	/*background-color: #164c67;*/
+	background-image: url("../img/bg2.jpg");
+	background-position: 0px 76px;
+	color: white;
+
+}
+
+span.basic-addon1 {
+	color: white;
+}
